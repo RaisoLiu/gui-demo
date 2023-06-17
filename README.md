@@ -1,6 +1,7 @@
 # Video Color Replacer GUI
 
 此專案提供一個圖形化介面，用於載入視頻檔案，隨機選擇一些幀，並將指定的顏色替換為另一種顏色。
+此專案目的是提供我一個 python GUI 的練習與範例，屬於 Bodypart Latent From Video (BLFV) 開發前的練習！
 
 ## 專案結構
 
